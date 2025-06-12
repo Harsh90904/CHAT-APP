@@ -31,5 +31,4 @@ CHAT-APP/
 
 🧑‍💻 Author
 Harsh Diyora
-
-## created by AI
+ created by AI
