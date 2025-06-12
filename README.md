@@ -14,21 +14,8 @@ A simple real-time chat application built with **Node.js**, **Express**, and **S
 
 - **Backend**: Node.js, Express
 - **Realtime Engine**: Socket.io
-- **Frontend**: HTML, CSS, JavaScript
-
-## 📁 Project Structure
-
-CHAT-APP/
-├── public/ # Static files (HTML, CSS, JS)
-│ ├── css/
-│ ├── js/
-│ └── index.html
-├── node_modules/
-├── server.js # Main server file
-├── package.json
-└── README.md
+- **Frontend**:React,  HTML, Tailwind CSS, JavaScript
 
 
 🧑‍💻 Author
 Harsh Diyora
- created by AI
